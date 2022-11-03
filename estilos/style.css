@@ -51,8 +51,8 @@ section#redes-sociais img {
     box-sizing: border-box;       
 }
 section#redes-sociais img:hover {
-    border: 2px solid rgba(243, 243, 254, 0.756);
+    border: 2px solid rgba(254, 254, 254, 0.845);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgb(0, 0, 0.623);
-    transition:  transform .3s, border 0.7s;
+    transition:  transform .2s, border 0.3s;
 }
